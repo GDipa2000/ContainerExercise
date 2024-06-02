@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CMakeHelloWorld.dir/src/main.cpp.o CMakeFiles/CMakeHelloWorld.dir/src/helper.cpp.o -o CMakeHelloWorld 

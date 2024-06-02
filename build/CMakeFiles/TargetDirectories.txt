@@ -1,0 +1,3 @@
+/home/dipa_2000/.local/share/ContainerExercise/build/CMakeFiles/CMakeHelloWorld.dir
+/home/dipa_2000/.local/share/ContainerExercise/build/CMakeFiles/edit_cache.dir
+/home/dipa_2000/.local/share/ContainerExercise/build/CMakeFiles/rebuild_cache.dir

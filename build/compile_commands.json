@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dipa_2000/.local/share/ContainerExercise/build",
+  "command": "/usr/bin/c++  -I/home/dipa_2000/.local/share/ContainerExercise/include -g -std=gnu++11 -o CMakeFiles/CMakeHelloWorld.dir/src/main.cpp.o -c /home/dipa_2000/.local/share/ContainerExercise/src/main.cpp",
+  "file": "/home/dipa_2000/.local/share/ContainerExercise/src/main.cpp"
+},
+{
+  "directory": "/home/dipa_2000/.local/share/ContainerExercise/build",
+  "command": "/usr/bin/c++  -I/home/dipa_2000/.local/share/ContainerExercise/include -g -std=gnu++11 -o CMakeFiles/CMakeHelloWorld.dir/src/helper.cpp.o -c /home/dipa_2000/.local/share/ContainerExercise/src/helper.cpp",
+  "file": "/home/dipa_2000/.local/share/ContainerExercise/src/helper.cpp"
+}
+]
